@@ -5,17 +5,17 @@
 
 ### Features
  Easy contact between plasma donor and receiver through this android application.
- Included:
+ #### Included:
  
- 1.User Database
- 2.User Login & Registration
- 3.Donor Details
- 4.Finding blood group easily
- 5.show all Information of doner
+ #### 1.User Database
+ #### 2.User Login & Registration
+ #### 3.Donor Details
+ #### 4.Finding blood group easily
+ #### 5.show all Information of doner
 
 ### Tools and Techineques
- 1.Database:mysql
- 2.languages:php
- 3.Front End:HTML CSS
- 4.IDE:visual studio
- 5.Framework:laravel
+ #### 1.Database:mysql
+ #### 2.languages:php
+ #### 3.Front End:HTML CSS
+ #### 4.IDE:visual studio
+ #### 5.Framework:laravel
